@@ -8,5 +8,6 @@
   },
   "dependencies": {
     "express": "^4.21.2"
+    "express next version": "^4.22.0"
   }
 }
